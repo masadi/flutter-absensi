@@ -51319,7 +51319,7 @@ a2T(a){var s,r=this,q=null
 r.a.toString
 s=r.ga9P()
 r.a.toString
-return new A.D1(q,q,q,new A.an2(),q,q,q,q,q,B.Hi,B.LJ,q,q,B.Je,r.ga9X(),"",q,B.RD,B.dY,q,s,q,q,B.nM,!1,!1,!1,!1,r.ga9q(),!1,q,q,q,new A.l7(r,t.bT))},
+return new A.D1(q,q,q,new A.an2(),q,q,q,q,q,B.Hi,B.LJ,q,q,B.Je,r.ga9X(),"Presensi SMK Sumber Nangka",q,B.RD,B.dY,q,s,q,q,B.nM,!1,!1,!1,!1,r.ga9q(),!1,q,q,q,new A.l7(r,t.bT))},
 H(a){var s,r=null,q=A.tm(!1,!1,this.a2T(a),r,r,r,r,!0,r,r,new A.an3(),r,r,r)
 this.a.toString
 s=this.d
