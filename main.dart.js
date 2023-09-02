@@ -46401,7 +46401,7 @@ $.awj()
 s=q.$1(B.yR)
 return A.eu(r,new A.cb(new A.aq(20,20,20,20),A.fH(A.f8(A.a([new A.BV(200,B.db,B.hE,new A.K3(this.c,r,r,q,s,r,B.yR),r,r),A.dw(r,40,r),A.dw(A.acR(r,r,B.bG,r,r,!0,r,A.cx(r,A.cS(r,r,B.bY,r,r,r,r,r,r,r,r,20,r,r,B.H,r,r,!0,r,r,r,r,r,r,r,r),this.d),B.aX,r,r,1,B.az),40,r)],t.p),B.a1,B.jn,B.bX),r,r),r),B.q,r,r,r,r,r,r,r)}}
 A.A5.prototype={
-ah(){return new A.Ez(A.atD(0),A.a([new A.rk("assets/images/hit.svg","hello there welcome to our app hit",null),new A.rk("assets/images/catch.svg","this is A catch app that help you to train your dogs",null),new A.rk("assets/images/freinds.svg","Ready To start",null)],t.p),B.i)}}
+ah(){return new A.Ez(A.atD(0),A.a([new A.rk("assets/images/hit.svg","Selamat Datang di Aplikasi Presensi SMK Sumber Nangka",null),new A.rk("assets/images/catch.svg","Akses Aplikasi menggunakan akun e-Rapor",null),new A.rk("assets/images/freinds.svg","Silahkan login untuk dapat mengakses aplikasi",null)],t.p),B.i)}}
 A.Ez.prototype={
 m(){this.d.m()
 this.aI()},
